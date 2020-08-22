@@ -1,0 +1,7 @@
+~__pycache__/
+~.pyc
+.idea
+config.py
+LimiO_Sil.session
+LimiO_Sil.session-journal
+profile_photo.jpg
